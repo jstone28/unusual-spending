@@ -21,5 +21,7 @@
     "teenytest": "^1.0.0",
     "testdouble": "^0.8.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "assert": "^1.4.1"
+  }
 }
